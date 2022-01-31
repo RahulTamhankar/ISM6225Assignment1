@@ -447,3 +447,10 @@ namespace DIS_Assignmnet1_SPRING_2022
         }
     }
 }
+
+//Self-reflection
+//Time Taken- This assignment took me around 4 hours to complete.
+//Learning- I have learned how to work with various data types like string,intergers. I have also 
+//learnt how to work with int arrays, string arrays.
+//Recommendations- I found the assignment quite interesting and I would like to see the solutions after the 
+//submission for my reference and how I can approach a particluar problem.
